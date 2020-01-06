@@ -1,8 +1,14 @@
 # next-delay
 > Delay for next.
 
+## installation
+```bash
+npm install -S @feizheng/next-delay
+```
 
-## resources:
+## usage
+```js
+import '@feizheng/next-delay';
 
-## todos:
-- [ ] unit test case
+//DOCS here!
+```
