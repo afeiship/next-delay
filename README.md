@@ -15,3 +15,12 @@ import '@feizheng/next-delay';
 
 ## resources
 - https://stackoverflow.com/questions/38956121/how-to-add-delay-to-promise-inside-then
+
+
+```js
+function sleeper(ms) {
+  return function(x) {
+    return new Promise(resolve => setTimeout(() => resolve(x), ms));
+  };
+}
+```
