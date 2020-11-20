@@ -3,7 +3,7 @@
  * description: Delay for next.
  * homepage: https://github.com/afeiship/next-delay
  * version: 1.0.0
- * date: 2020-11-20 22:01:44
+ * date: 2020-11-20 22:02:29
  * license: MIT
  */
 
